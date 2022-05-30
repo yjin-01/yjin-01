@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-```
 <br>
- <p align="center">
+<p align="center">
 🖥&nbsp&nbsp&nbsp Develop Languages
-  </p>
+</p>
+
 <p align="center">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
-  </p>
+</p>
   
 <p align="center">
- 🔎&nbsp &nbsp 기술 스택
-  </p>
+ 🔎&nbsp &nbsp stack
+ </p>
+ 
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
 <img alt= "icon" wide="60" height="60" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/docker-icon.svg">
 <img alt= "icon" wide="60" height="60" src ="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg">
 <img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/kubernetes-icon.svg">
-  
-  </p>
-  </br>
-```
+</p>
+
+</br>
+
