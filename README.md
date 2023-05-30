@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  </p>
  
 <p align="center">
+<img alt= "icon" wide="65" height="65" src ="https://docs.nestjs.com/assets/logo-small.svg">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/docker-icon.svg">
 <img alt= "icon" wide="60" height="60" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547">
